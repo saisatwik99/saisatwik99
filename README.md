@@ -16,11 +16,11 @@ Skilled in Data Science, Machine Learning, Deep Learning, As Well As Basic Basic
 ![Node](https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 
-
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 ![Machine learning](https://img.shields.io/badge/-Machine_Learning-green?style=for-the-badge)
 ![Deep learning](https://img.shields.io/badge/-Deep_Learning-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
