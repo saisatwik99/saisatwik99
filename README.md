@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Sai Satwik, Web-Developer, Competative Coder and Machine Learning enthusiast. I have rich experience in web site design & building and customization. worked with different languages and frameworks and I am always looking for opportunities to work on something new✨.
+Hello, I’m Sai Satwik, ❤️ Web-Developer, Competitive Coder and Machine Learning enthusiast. I have rich experience in web site design & building and customization. worked with different languages and frameworks and I am always looking for opportunities to work on something new✨.
 
 ## 🛠️ **Languages & Tools:**
 
