@@ -28,14 +28,6 @@ Hello, I’m Sai Satwik, ❤️ Web-Developer, Competitive Coder and Machine Lea
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
-## 📈 **Github Stats:**
-
-<a href="https://github.com/saisatwik99">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisatwik99&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/saisatwik99/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saisatwik99&layout=Demo&theme=blue-green" />
-</a>
 
 ## 📫 **Reach Me:**
 <p align="center">
